@@ -1,0 +1,18 @@
+.container {
+    margin-top: 40px;
+}
+
+.container .col-lg-6 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+input.form-control {
+    height: 30px;
+    margin-top: 10px;
+}
+
+.input-group {
+    text-align: center;
+}
